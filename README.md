@@ -29,3 +29,13 @@ distribute our free software across boundaries of cultures.
 
 Feel free to fork this repository, and send pull requests to us.
 
+## License and contacts
+
+This license is licensed under itself. (That is why you can see a symlink at
+[LICENSE.md][LICENSE.md]) so it is a open source open source license.
+
+If you have any suggestions, open an issue here.
+
+If you want to contact a human as soon as possible, you can send an email to
+the maintainer, Maxthon Chan <xcvista@me.com>.
+
